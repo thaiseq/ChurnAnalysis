@@ -8,3 +8,4 @@ https://data.world/earino/churn/workspace/data-dictionary) and [UCI data reposit
 # Dataset
 
 
+A data frame with 5000 observations on the following 18 variables.
