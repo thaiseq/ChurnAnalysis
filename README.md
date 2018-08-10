@@ -4,7 +4,7 @@
 
 # 1. Churn
 
-  Churn Customer can be defined as a user who is likely to discontinue using the services.  So, the target variable confirm if the customer has churned (1=yes; 0 = no).
+  Churn Customer can be defined as a user who is likely to discontinue using the services. So, the target variable confirm if the customer has churned (1=yes; 0 = no).
 
 # 2. Dataset
 
@@ -12,7 +12,7 @@
 
    * 14% of the base are classified as churn.
    * 50% of the customers who called the company more than 3 times are classified as Churn.
-   * 10% of those with no international plan are classified as Churn, while only 8% of those with an international plan are Churn.
+   * 10% of those with no international plan are classified as Churn x 8% of those with an international plan are Churn.
    
   ### 2.1 Columns
    
