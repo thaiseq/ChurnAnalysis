@@ -53,13 +53,12 @@
    
    According to the feature importance analysis produced by the Random Forest algorithm, the following features had the highest predictive power:
 
-    1.
-    2.
-    3.
-    4.
-    5.      
-      
-      
+    1. total_day_minutes
+    2. total_day_charge
+    3. number_customer_service_calls
+    4. total_eve_minutes
+    5. international_plan     
+       	     
     
 #  4. Modeling and Results
    
