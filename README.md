@@ -47,7 +47,7 @@
    
       * 'class'
       
- # 3. Feature Importance
+ # 3. Features Importance
 
    Estimating the influence of a given feature to a model prediction is importante mainly in large datasets for performance gain by selecting only the most relevant ones. 
    
