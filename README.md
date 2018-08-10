@@ -61,8 +61,15 @@
        	     
     
 #  4. Modeling and Results
-   
-   The 18 characteristics of this data set were used to train the models.
+
+Four models have been constructed for application in the problem of this project, namely:
+
+* Gradient Boosted Trees
+* Random Forest
+* AdaBoost
+* Logistic Regression
+
+The 18 characteristics of this data set were used to train the models.
 
 Their respective AUC (Area Under the Curve) measures are listed below:
     
