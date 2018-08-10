@@ -66,27 +66,20 @@
 
 Their respective AUC (Area Under the Curve) measures are listed below:
     
-    Gradient Boosted Trees:
-    Random Forest:    
-    AdaBoost:
-    Logistic Regression: 
+    Gradient Boosted Trees: 0.92
+    Random Forest:    0.91
+    AdaBoost: 0.87
+    Logistic Regression: 0.82
 
-Gradient Boosted Trees produced the highest AUC and the following scores:
+Gradient Boosted Classifier produced the highest AUC and the following scores:
 
-    Accuracy: 94% labeled correctly
-    Precision: 95% labeled as churn actually churned (5% were wrongly labeled as churn)
-    Recall: 98% that actually churned were labeled as churn (2% of churn users were labeled as non-churn)
-    
-    
-
-    
-# 5. Conclusion
-
-
+      Accuracy: 96% labeled correctly
+      Precision: 93% labeled as churn actually churned (5% were wrongly labeled as churn)
+      Recall: 74% that actually churned were labeled as churn (2% of churn users were labeled as non-churn)
 
 # 6. Tools
 
-    Python, Sklearn, Pandas, Numpy, matplotlib and seaborn
+    Python, Sklearn, Pandas, Numpy, matplotlib and Seaborn
 
 Code and Notebook
 
