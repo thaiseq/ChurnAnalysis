@@ -78,9 +78,8 @@ Gradient Boosted Classifier produced the highest AUC and the following scores:
       Recall: 74% that actually churned were labeled as churn (2% of churn users were labeled as non-churn)
 
 # 6. Tools
+    Jupyter notebook, Python (Sklearn, Pandas, Numpy, Matplotlib and Seaborn)
 
-    Python, Sklearn, Pandas, Numpy, matplotlib and Seaborn
+    Code: l[link](https://github.com/thaiseq/Analytics/blob/master/Telecom%20Data%20Churn%20Analysis.ipynb)
 
-Code and Notebook
-
-    Jupyter notebook
+    
