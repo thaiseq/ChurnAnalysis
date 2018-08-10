@@ -14,13 +14,13 @@
    * 50% of the customers who called the company more than 3 times are classified as Churn.
    * 10% of those with no international plan are classified as Churn, while only 8% of those with an international plan are Churn.
    
-  ## 2.1 Columns
+  ### 2.1 Columns
    
-   ### ID:
+   * ID *
       * 'area_code', 'phone_number',
 
 
-   ### Features:
+   * Features *
       * 'state',
       * 'account_length', 
       * 'international_plan', 
@@ -40,7 +40,7 @@
       * 'total_intl_charge',
       * 'number_customer_service_calls', 
 
-   ### Target:
+   * Target*
       * 'class'
     
 # 3. Modeling and Results
