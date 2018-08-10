@@ -64,7 +64,7 @@
 
 Four models have been constructed for application in the problem of this project, namely:
 
-* Gradient Boosted Classifier
+* Gradient Boosted 
 * Random Forest
 * AdaBoost
 * Logistic Regression
