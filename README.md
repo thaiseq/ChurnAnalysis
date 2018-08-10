@@ -49,7 +49,7 @@
       
  # 3. Features Importance
 
-   Estimating the influence of a given feature to a model prediction is importante mainly in large datasets for performance gain by selecting only the most relevant ones. 
+   Feature selection process of finding and selecting the most useful features in a dataset. Unnecessary features decrease training speed, the model interpretability and the generalization performance on the test set. Estimating the influence of a given feature to a model prediction is importante mainly in large datasets for performance gain by selecting only the most relevant ones.
    
    According to the feature importance analysis produced by the Random Forest algorithm, the following features had the highest predictive power:
 
