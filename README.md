@@ -16,11 +16,11 @@
    
   ### 2.1 Columns
    
-   * ID *
+   * ID 
       * 'area_code', 'phone_number',
 
 
-   * Features *
+   * Features 
       * 'state',
       * 'account_length', 
       * 'international_plan', 
@@ -40,7 +40,7 @@
       * 'total_intl_charge',
       * 'number_customer_service_calls', 
 
-   * Target*
+   * Target
       * 'class'
     
 # 3. Modeling and Results
