@@ -17,11 +17,13 @@
   ### 2.1 Columns
    
    * ID 
+   
       * 'area_code'
       * 'phone_number'
 
 
    * Features 
+   
       * 'state'
       * 'account_length'
       * 'international_plan'
@@ -42,11 +44,26 @@
       * 'number_customer_service_calls'
 
    * Target
+   
       * 'class'
-    
-# 3. Modeling and Results
+      
+ # 3. Feature Importance
 
-I used 20 features to run my models. I ran 4 classifier models and plotted their ROC curves using k-fold cross validation. 
+   Estimating the influence of a given feature to a model prediction is importante mainly in large datasets for performance gain by selecting only the most relevant ones. 
+   
+   According to the feature importance analysis produced by the Random Forest algorithm, the following features had the highest predictive power:
+
+    1.
+    2.
+    3.
+    4.
+    5.      
+      
+      
+    
+#  4. Modeling and Results
+   
+   The 18 characteristics of this data set were used to train the models.
 
 Their respective AUC (Area Under the Curve) measures are listed below:
     
@@ -62,15 +79,7 @@ Gradient Boosted Trees produced the highest AUC and the following scores:
     Recall: 98% that actually churned were labeled as churn (2% of churn users were labeled as non-churn)
     
     
- # 4. Feature Importance
 
-According to the feature importance analysis produced by the Random Forest algorithm, the following features had the highest predictive power:
-
-    1.
-    2.
-    3.
-    4.
-    5.
     
 # 5. Conclusion
 
