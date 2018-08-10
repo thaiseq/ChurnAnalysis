@@ -1,6 +1,8 @@
 # Telecom Data Churn Analysis
 
-   The goal of this project is to identify those customers most likely to churn at a fictitious telecom company, that is, the subscribers who are most likely to leave the company. Once identified, it's possible to focus on retention actions, providing adequate intervention to encourage them to stay and minimize customer exit. The dataset for this project was obtained from the [OpenMl](https://www.openml.org/d/40701) public repository. A dataset relating characteristics of account features and usage and whether or not the customer churned. In the context of this project, this is a problem of supervised classification and Machine Learning algorithms will be used for the development of predictive models and evaluation of accuracy and performance. It seeks to find the most appropriate model for the business.
+   In this project, the goal is to identify churn customers, that is, customers most likely to cancel subscription to a fictitious telecom company. Customer churn is a really interesting problem, because once identified, it's possible to focus on retention actions, providing adequate intervention to encourage them to stay and minimize customer exit. 
+   
+   The dataset for this project was obtained from the [OpenMl](https://www.openml.org/d/40701) public repository. A dataset relating characteristics of account features and usage and whether or not the customer churned. In the context of this project, this is a problem of supervised classification and Machine Learning algorithms will be used for the development of predictive models and evaluation of accuracy and performance. It seeks to find the most appropriate model for the business.
 
 # 1. Churn
 
