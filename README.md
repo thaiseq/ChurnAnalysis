@@ -87,7 +87,7 @@ Gradient Boosted Classifier produced the highest AUC and the following scores:
    The best results achieved by the [OpenML](https://www.openml.org/t/167141) users for this dataset have had results similar to this one, 95% accuracy using Random Forest. However, in this project, we were able to optimize this result using Gradient Boosted Classifier, with 96% accuracy.   
 
 # 6. Tools
-    Jupyter notebook, Python (Sklearn, Pandas, Numpy, Matplotlib and Seaborn)
+    Jupyter notebook, Python 3.5.2 (Sklearn, Pandas, Numpy, Matplotlib and Seaborn)
 
    Code: [link](https://github.com/thaiseq/Analytics/blob/master/Telecom%20Data%20Churn%20Analysis.ipynb)
    
