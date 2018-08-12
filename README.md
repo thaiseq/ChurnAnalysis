@@ -74,14 +74,14 @@ The 18 characteristics of this data set were used to train the models.
 Their respective AUC (Area Under the Curve) measures are listed below:
     
     Gradient Boosted Trees: 0.92
-    Random Forest:    0.91
+    Random Forest:    0.92
     AdaBoost: 0.87
     Logistic Regression: 0.82
 
 Gradient Boosted Classifier produced the highest AUC and the following scores:
 
       Accuracy: 96% labeled correctly
-      Precision: 93% labeled as churn actually churned (5% were wrongly labeled as churn)
+      Precision: 94% labeled as churn actually churned (5% were wrongly labeled as churn)
       Recall: 74% that actually churned were labeled as churn (2% of churn users were labeled as non-churn)
    
    The best results achieved by the [OpenML](https://www.openml.org/t/167141) users for this dataset have had results similar to this one, 95% accuracy using Random Forest. However, in this project, we were able to optimize this result using Gradient Boosted Classifier, with 96% accuracy.   
