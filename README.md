@@ -89,7 +89,7 @@ Gradient Boosted Classifier produced the highest AUC and the following scores:
 # 6. Tools
     Jupyter notebook, Python 3.5.2 (Sklearn, Pandas, Numpy, Matplotlib and Seaborn)
 
-   Code: [link](https://github.com/thaiseq/Analytics/blob/master/Telecom%20Data%20Churn%20Analysis.ipynb)
+   Code: [link](https://github.com/thaiseq/Analytics/blob/master/Churn%20Analysis%20in%20a%20Telecom%20Dataset.ipynb)
    
    
 
